@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>734379172556-n32s9r3q4fbqk5j4mh3q4c7kcfh86u2p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.734379172556-n32s9r3q4fbqk5j4mh3q4c7kcfh86u2p</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCaErP9gzZQ7s-B-mYQ2Iyw6vwQVTMAztI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>734379172556</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>club.Skylvoe.AttendanceApp</string>
+	<key>PROJECT_ID</key>
+	<string>attendance-616e0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>attendance-616e0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:734379172556:ios:81c9f805e18e3bae</string>
+	<key>DATABASE_URL</key>
+	<string>https://attendance-616e0.firebaseio.com</string>
+</dict>
+</plist>

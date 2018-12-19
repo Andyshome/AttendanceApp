@@ -1,0 +1,6 @@
+framework module AZExpandable {
+  umbrella header "AZExpandable-umbrella.h"
+
+  export *
+  module * { export * }
+}
