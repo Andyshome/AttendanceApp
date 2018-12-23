@@ -1,5 +1,5 @@
-# AttendenceApp
-![](https://github.com/Andyshome/AttendenceApp/blob/master/ClientSide/Group2_Piotr_Szczepaniec/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29%403x.png)
+# AttendanceApp
+![](https://github.com/Andyshome/AttendanceApp/blob/master/ClientSide/Group2_Piotr_Szczepaniec/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29%403x.png)
 
 Demo of an attendece app to mark students attendence.
 
@@ -29,4 +29,4 @@ $ pod install
 * Swift 4.2
 
 ## License
-**Attendance App** is released under the GPL3.0 license. See [LICENSE](https://github.com/Andyshome/AttendenceApp/blob/master/LICENSE) for details.
+**Attendance App** is released under the GPL3.0 license. See [LICENSE](https://github.com/Andyshome/AttendanceApp/blob/master/LICENSE) for details.
