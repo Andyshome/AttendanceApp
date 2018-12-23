@@ -1,14 +1,14 @@
 # AttendanceApp
 ![](https://github.com/Andyshome/AttendanceApp/blob/master/ClientSide/Group2_Piotr_Szczepaniec/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29%403x.png)
 
-Demo of an attendece app to mark students attendence.
+Demo of an attendance app to mark students attendance.
 
 ## How to build
 
 * Clone the repository
 
 ```bash
-git clone https://github.com/Andyshome/AttendenceApp.git
+git clone https://github.com/Andyshome/AttendanceApp.git
 ```
 
 * Install the cocoapods in both projects
