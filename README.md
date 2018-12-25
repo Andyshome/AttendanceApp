@@ -4,6 +4,7 @@
 Demo of an attendance app to mark students attendance.
 
 ## ScreenShot
+
 ![](https://github.com/Andyshome/AttendanceApp/blob/master/ScreenShot.PNG)
 
 
