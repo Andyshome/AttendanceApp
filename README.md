@@ -1,6 +1,4 @@
 # AttendanceApp
-![](https://github.com/Andyshome/AttendanceApp/blob/master/ClientSide/Group2_Piotr_Szczepaniec/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29%403x.png)
-
 Demo of an attendance app to mark students attendance.
 
 ## ScreenShot
