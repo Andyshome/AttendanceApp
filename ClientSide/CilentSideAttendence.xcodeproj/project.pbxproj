@@ -7,29 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5482E3B621B8478B008E6E32 /* AddClassroomTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5482E3B521B8478B008E6E32 /* AddClassroomTableViewController.swift */; };
-		5494298921B99EB400421A48 /* teacher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5494297821B99B8300421A48 /* teacher.swift */; };
-		5494298A21B99EB700421A48 /* AttendenceHistory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5494297A21B99B8300421A48 /* AttendenceHistory.swift */; };
-		5494298B21B99EBC00421A48 /* studentList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5494297921B99B8300421A48 /* studentList.swift */; };
-		5494298C21B99EC000421A48 /* class.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5494297B21B99B8300421A48 /* class.swift */; };
-		5494298D21B99EC300421A48 /* student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5494297C21B99B8300421A48 /* student.swift */; };
-		549FABB621C813E900B81059 /* AttendancesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 549FABB521C813E900B81059 /* AttendancesTableViewCell.swift */; };
-		54BF0CD421B5968C00AAB00B /* CoursesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54BF0CD321B5968C00AAB00B /* CoursesTableViewCell.swift */; };
-		54BF0CD621B5ABB800AAB00B /* StudentTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54BF0CD521B5ABB800AAB00B /* StudentTableViewController.swift */; };
-		54BF0CD821B5ABE400AAB00B /* StudentTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54BF0CD721B5ABE400AAB00B /* StudentTableViewCell.swift */; };
-		54CD7B6721AC5DD100C28C6F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54CD7B6621AC5DD100C28C6F /* AppDelegate.swift */; };
-		54CD7B6921AC5DD100C28C6F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54CD7B6821AC5DD100C28C6F /* ViewController.swift */; };
-		54CD7B6C21AC5DD100C28C6F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54CD7B6A21AC5DD100C28C6F /* Main.storyboard */; };
-		54CD7B6E21AC5DD200C28C6F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54CD7B6D21AC5DD200C28C6F /* Assets.xcassets */; };
-		54CD7B7121AC5DD200C28C6F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54CD7B6F21AC5DD200C28C6F /* LaunchScreen.storyboard */; };
-		54CD7B7C21AC5DD200C28C6F /* Group2_Piotr_SzczepaniecTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54CD7B7B21AC5DD200C28C6F /* Group2_Piotr_SzczepaniecTests.swift */; };
-		54CD7B8721AC5DD200C28C6F /* Group2_Piotr_SzczepaniecUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54CD7B8621AC5DD200C28C6F /* Group2_Piotr_SzczepaniecUITests.swift */; };
-		54CD7B9521AC5DE500C28C6F /* MainTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54CD7B9421AC5DE500C28C6F /* MainTableViewController.swift */; };
-		54D221E321B0569800C12299 /* AddStudentTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54D221E221B0569800C12299 /* AddStudentTableViewController.swift */; };
-		54F9D75921C2D6940006EEC9 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 54F9D75821C2D6940006EEC9 /* GoogleService-Info.plist */; };
-		54FC11ED21BED86700008FFF /* AddDetailsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54FC11EC21BED86700008FFF /* AddDetailsTableViewController.swift */; };
-		AE59EBEB21BB587E00C4442B /* AttendenceHistoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE59EBEA21BB587E00C4442B /* AttendenceHistoryTableViewController.swift */; };
-		AE59EBED21BB5C3200C4442B /* StudentsDetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE59EBEC21BB5C3200C4442B /* StudentsDetailTableViewController.swift */; };
+		7DB9E4CC21CC27B70097E1E4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4AC21CC27B70097E1E4 /* ViewController.swift */; };
+		7DB9E4CD21CC27B70097E1E4 /* SwiftData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4AD21CC27B70097E1E4 /* SwiftData.swift */; };
+		7DB9E4CE21CC27B70097E1E4 /* MainTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4AE21CC27B70097E1E4 /* MainTableViewController.swift */; };
+		7DB9E4CF21CC27B70097E1E4 /* StudentTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4AF21CC27B70097E1E4 /* StudentTableViewController.swift */; };
+		7DB9E4D021CC27B70097E1E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7DB9E4B021CC27B70097E1E4 /* Assets.xcassets */; };
+		7DB9E4D121CC27B70097E1E4 /* AddClassroomTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4B121CC27B70097E1E4 /* AddClassroomTableViewController.swift */; };
+		7DB9E4D221CC27B70097E1E4 /* AddStudentTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4B221CC27B70097E1E4 /* AddStudentTableViewController.swift */; };
+		7DB9E4D321CC27B70097E1E4 /* CoursesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4B321CC27B70097E1E4 /* CoursesTableViewCell.swift */; };
+		7DB9E4D421CC27B70097E1E4 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7DB9E4B421CC27B70097E1E4 /* GoogleService-Info.plist */; };
+		7DB9E4D521CC27B70097E1E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DB9E4B521CC27B70097E1E4 /* LaunchScreen.storyboard */; };
+		7DB9E4D621CC27B70097E1E4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DB9E4B721CC27B70097E1E4 /* Main.storyboard */; };
+		7DB9E4D721CC27B70097E1E4 /* StudentTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4B921CC27B70097E1E4 /* StudentTableViewCell.swift */; };
+		7DB9E4D821CC27B70097E1E4 /* AddDetailsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4BA21CC27B70097E1E4 /* AddDetailsTableViewController.swift */; };
+		7DB9E4D921CC27B70097E1E4 /* AttendancesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4BB21CC27B70097E1E4 /* AttendancesTableViewCell.swift */; };
+		7DB9E4DA21CC27B70097E1E4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4BC21CC27B70097E1E4 /* AppDelegate.swift */; };
+		7DB9E4DB21CC27B70097E1E4 /* teacher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4BE21CC27B70097E1E4 /* teacher.swift */; };
+		7DB9E4DC21CC27B70097E1E4 /* studentList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4BF21CC27B70097E1E4 /* studentList.swift */; };
+		7DB9E4DD21CC27B70097E1E4 /* AttendenceHistory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4C021CC27B70097E1E4 /* AttendenceHistory.swift */; };
+		7DB9E4DE21CC27B70097E1E4 /* class.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4C121CC27B70097E1E4 /* class.swift */; };
+		7DB9E4DF21CC27B70097E1E4 /* teacher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4C321CC27B70097E1E4 /* teacher.swift */; };
+		7DB9E4E021CC27B70097E1E4 /* studentList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4C421CC27B70097E1E4 /* studentList.swift */; };
+		7DB9E4E121CC27B70097E1E4 /* AttendenceHistory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4C521CC27B70097E1E4 /* AttendenceHistory.swift */; };
+		7DB9E4E221CC27B70097E1E4 /* class.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4C621CC27B70097E1E4 /* class.swift */; };
+		7DB9E4E321CC27B70097E1E4 /* student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4C721CC27B70097E1E4 /* student.swift */; };
+		7DB9E4E421CC27B70097E1E4 /* student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4C821CC27B70097E1E4 /* student.swift */; };
+		7DB9E4E521CC27B70097E1E4 /* AttendenceHistoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4C921CC27B70097E1E4 /* AttendenceHistoryTableViewController.swift */; };
+		7DB9E4E621CC27B70097E1E4 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7DB9E4CA21CC27B70097E1E4 /* Info.plist */; };
+		7DB9E4E721CC27B70097E1E4 /* StudentsDetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DB9E4CB21CC27B70097E1E4 /* StudentsDetailTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,35 +55,37 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		5482E3B521B8478B008E6E32 /* AddClassroomTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddClassroomTableViewController.swift; sourceTree = "<group>"; };
-		5494297821B99B8300421A48 /* teacher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = teacher.swift; sourceTree = "<group>"; };
-		5494297921B99B8300421A48 /* studentList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = studentList.swift; sourceTree = "<group>"; };
-		5494297A21B99B8300421A48 /* AttendenceHistory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttendenceHistory.swift; sourceTree = "<group>"; };
-		5494297B21B99B8300421A48 /* class.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = class.swift; sourceTree = "<group>"; };
-		5494297C21B99B8300421A48 /* student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = student.swift; sourceTree = "<group>"; };
-		549FABB521C813E900B81059 /* AttendancesTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AttendancesTableViewCell.swift; sourceTree = "<group>"; };
-		54BF0CD321B5968C00AAB00B /* CoursesTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoursesTableViewCell.swift; sourceTree = "<group>"; };
-		54BF0CD521B5ABB800AAB00B /* StudentTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentTableViewController.swift; sourceTree = "<group>"; };
-		54BF0CD721B5ABE400AAB00B /* StudentTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentTableViewCell.swift; sourceTree = "<group>"; };
 		54CD7B6321AC5DD100C28C6F /* CilentSideAttendence.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CilentSideAttendence.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		54CD7B6621AC5DD100C28C6F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		54CD7B6821AC5DD100C28C6F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		54CD7B6B21AC5DD100C28C6F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		54CD7B6D21AC5DD200C28C6F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		54CD7B7021AC5DD200C28C6F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		54CD7B7221AC5DD200C28C6F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		54CD7B7721AC5DD200C28C6F /* CilentSideAttendenceTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CilentSideAttendenceTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		54CD7B7B21AC5DD200C28C6F /* Group2_Piotr_SzczepaniecTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group2_Piotr_SzczepaniecTests.swift; sourceTree = "<group>"; };
-		54CD7B7D21AC5DD200C28C6F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		54CD7B8221AC5DD200C28C6F /* CilentSideAttendenceUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CilentSideAttendenceUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		54CD7B8621AC5DD200C28C6F /* Group2_Piotr_SzczepaniecUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Group2_Piotr_SzczepaniecUITests.swift; sourceTree = "<group>"; };
-		54CD7B8821AC5DD200C28C6F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		54CD7B9421AC5DE500C28C6F /* MainTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTableViewController.swift; sourceTree = "<group>"; };
-		54D221E221B0569800C12299 /* AddStudentTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddStudentTableViewController.swift; sourceTree = "<group>"; };
-		54F9D75821C2D6940006EEC9 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
-		54FC11EC21BED86700008FFF /* AddDetailsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddDetailsTableViewController.swift; sourceTree = "<group>"; };
-		AE59EBEA21BB587E00C4442B /* AttendenceHistoryTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttendenceHistoryTableViewController.swift; sourceTree = "<group>"; };
-		AE59EBEC21BB5C3200C4442B /* StudentsDetailTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentsDetailTableViewController.swift; sourceTree = "<group>"; };
+		7DB9E4AC21CC27B70097E1E4 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		7DB9E4AD21CC27B70097E1E4 /* SwiftData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftData.swift; sourceTree = "<group>"; };
+		7DB9E4AE21CC27B70097E1E4 /* MainTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainTableViewController.swift; sourceTree = "<group>"; };
+		7DB9E4AF21CC27B70097E1E4 /* StudentTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StudentTableViewController.swift; sourceTree = "<group>"; };
+		7DB9E4B021CC27B70097E1E4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7DB9E4B121CC27B70097E1E4 /* AddClassroomTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddClassroomTableViewController.swift; sourceTree = "<group>"; };
+		7DB9E4B221CC27B70097E1E4 /* AddStudentTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddStudentTableViewController.swift; sourceTree = "<group>"; };
+		7DB9E4B321CC27B70097E1E4 /* CoursesTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoursesTableViewCell.swift; sourceTree = "<group>"; };
+		7DB9E4B421CC27B70097E1E4 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		7DB9E4B621CC27B70097E1E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		7DB9E4B821CC27B70097E1E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		7DB9E4B921CC27B70097E1E4 /* StudentTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StudentTableViewCell.swift; sourceTree = "<group>"; };
+		7DB9E4BA21CC27B70097E1E4 /* AddDetailsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddDetailsTableViewController.swift; sourceTree = "<group>"; };
+		7DB9E4BB21CC27B70097E1E4 /* AttendancesTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AttendancesTableViewCell.swift; sourceTree = "<group>"; };
+		7DB9E4BC21CC27B70097E1E4 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		7DB9E4BE21CC27B70097E1E4 /* teacher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = teacher.swift; sourceTree = "<group>"; };
+		7DB9E4BF21CC27B70097E1E4 /* studentList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = studentList.swift; sourceTree = "<group>"; };
+		7DB9E4C021CC27B70097E1E4 /* AttendenceHistory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AttendenceHistory.swift; sourceTree = "<group>"; };
+		7DB9E4C121CC27B70097E1E4 /* class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = class.swift; sourceTree = "<group>"; };
+		7DB9E4C321CC27B70097E1E4 /* teacher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = teacher.swift; sourceTree = "<group>"; };
+		7DB9E4C421CC27B70097E1E4 /* studentList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = studentList.swift; sourceTree = "<group>"; };
+		7DB9E4C521CC27B70097E1E4 /* AttendenceHistory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AttendenceHistory.swift; sourceTree = "<group>"; };
+		7DB9E4C621CC27B70097E1E4 /* class.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = class.swift; sourceTree = "<group>"; };
+		7DB9E4C721CC27B70097E1E4 /* student.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = student.swift; sourceTree = "<group>"; };
+		7DB9E4C821CC27B70097E1E4 /* student.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = student.swift; sourceTree = "<group>"; };
+		7DB9E4C921CC27B70097E1E4 /* AttendenceHistoryTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AttendenceHistoryTableViewController.swift; sourceTree = "<group>"; };
+		7DB9E4CA21CC27B70097E1E4 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7DB9E4CB21CC27B70097E1E4 /* StudentsDetailTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StudentsDetailTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,25 +113,12 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		5494297721B99B8300421A48 /* dataModel */ = {
-			isa = PBXGroup;
-			children = (
-				5494297821B99B8300421A48 /* teacher.swift */,
-				5494297921B99B8300421A48 /* studentList.swift */,
-				5494297A21B99B8300421A48 /* AttendenceHistory.swift */,
-				5494297B21B99B8300421A48 /* class.swift */,
-				5494297C21B99B8300421A48 /* student.swift */,
-			);
-			path = dataModel;
-			sourceTree = "<group>";
-		};
 		54CD7B5A21AC5DD100C28C6F = {
 			isa = PBXGroup;
 			children = (
-				54CD7B6521AC5DD100C28C6F /* Group2_Piotr_Szczepaniec */,
-				54CD7B7A21AC5DD200C28C6F /* Group2_Piotr_SzczepaniecTests */,
-				54CD7B8521AC5DD200C28C6F /* Group2_Piotr_SzczepaniecUITests */,
+				7DB9E4AB21CC27B70097E1E4 /* ClientSideAttendence */,
 				54CD7B6421AC5DD100C28C6F /* Products */,
+				8FED321940110B7E222ED1F8 /* Pods */,
 			);
 			sourceTree = "<group>";
 		};
@@ -138,47 +132,62 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		54CD7B6521AC5DD100C28C6F /* Group2_Piotr_Szczepaniec */ = {
+		7DB9E4AB21CC27B70097E1E4 /* ClientSideAttendence */ = {
 			isa = PBXGroup;
 			children = (
-				5494297721B99B8300421A48 /* dataModel */,
-				54CD7B6621AC5DD100C28C6F /* AppDelegate.swift */,
-				54CD7B6821AC5DD100C28C6F /* ViewController.swift */,
-				54CD7B6A21AC5DD100C28C6F /* Main.storyboard */,
-				54FC11EC21BED86700008FFF /* AddDetailsTableViewController.swift */,
-				549FABB521C813E900B81059 /* AttendancesTableViewCell.swift */,
-				54BF0CD721B5ABE400AAB00B /* StudentTableViewCell.swift */,
-				54BF0CD521B5ABB800AAB00B /* StudentTableViewController.swift */,
-				AE59EBEA21BB587E00C4442B /* AttendenceHistoryTableViewController.swift */,
-				54F9D75821C2D6940006EEC9 /* GoogleService-Info.plist */,
-				AE59EBEC21BB5C3200C4442B /* StudentsDetailTableViewController.swift */,
-				54BF0CD321B5968C00AAB00B /* CoursesTableViewCell.swift */,
-				54D221E221B0569800C12299 /* AddStudentTableViewController.swift */,
-				5482E3B521B8478B008E6E32 /* AddClassroomTableViewController.swift */,
-				54CD7B9421AC5DE500C28C6F /* MainTableViewController.swift */,
-				54CD7B6D21AC5DD200C28C6F /* Assets.xcassets */,
-				54CD7B6F21AC5DD200C28C6F /* LaunchScreen.storyboard */,
-				54CD7B7221AC5DD200C28C6F /* Info.plist */,
+				7DB9E4AC21CC27B70097E1E4 /* ViewController.swift */,
+				7DB9E4AD21CC27B70097E1E4 /* SwiftData.swift */,
+				7DB9E4AE21CC27B70097E1E4 /* MainTableViewController.swift */,
+				7DB9E4AF21CC27B70097E1E4 /* StudentTableViewController.swift */,
+				7DB9E4B021CC27B70097E1E4 /* Assets.xcassets */,
+				7DB9E4B121CC27B70097E1E4 /* AddClassroomTableViewController.swift */,
+				7DB9E4B221CC27B70097E1E4 /* AddStudentTableViewController.swift */,
+				7DB9E4B321CC27B70097E1E4 /* CoursesTableViewCell.swift */,
+				7DB9E4B421CC27B70097E1E4 /* GoogleService-Info.plist */,
+				7DB9E4B521CC27B70097E1E4 /* LaunchScreen.storyboard */,
+				7DB9E4B721CC27B70097E1E4 /* Main.storyboard */,
+				7DB9E4B921CC27B70097E1E4 /* StudentTableViewCell.swift */,
+				7DB9E4BA21CC27B70097E1E4 /* AddDetailsTableViewController.swift */,
+				7DB9E4BB21CC27B70097E1E4 /* AttendancesTableViewCell.swift */,
+				7DB9E4BC21CC27B70097E1E4 /* AppDelegate.swift */,
+				7DB9E4BD21CC27B70097E1E4 /* dataModel */,
+				7DB9E4C921CC27B70097E1E4 /* AttendenceHistoryTableViewController.swift */,
+				7DB9E4CA21CC27B70097E1E4 /* Info.plist */,
+				7DB9E4CB21CC27B70097E1E4 /* StudentsDetailTableViewController.swift */,
 			);
-			path = Group2_Piotr_Szczepaniec;
+			path = ClientSideAttendence;
 			sourceTree = "<group>";
 		};
-		54CD7B7A21AC5DD200C28C6F /* Group2_Piotr_SzczepaniecTests */ = {
+		7DB9E4BD21CC27B70097E1E4 /* dataModel */ = {
 			isa = PBXGroup;
 			children = (
-				54CD7B7B21AC5DD200C28C6F /* Group2_Piotr_SzczepaniecTests.swift */,
-				54CD7B7D21AC5DD200C28C6F /* Info.plist */,
+				7DB9E4BE21CC27B70097E1E4 /* teacher.swift */,
+				7DB9E4BF21CC27B70097E1E4 /* studentList.swift */,
+				7DB9E4C021CC27B70097E1E4 /* AttendenceHistory.swift */,
+				7DB9E4C121CC27B70097E1E4 /* class.swift */,
+				7DB9E4C221CC27B70097E1E4 /* dataModel */,
+				7DB9E4C821CC27B70097E1E4 /* student.swift */,
 			);
-			path = Group2_Piotr_SzczepaniecTests;
+			path = dataModel;
 			sourceTree = "<group>";
 		};
-		54CD7B8521AC5DD200C28C6F /* Group2_Piotr_SzczepaniecUITests */ = {
+		7DB9E4C221CC27B70097E1E4 /* dataModel */ = {
 			isa = PBXGroup;
 			children = (
-				54CD7B8621AC5DD200C28C6F /* Group2_Piotr_SzczepaniecUITests.swift */,
-				54CD7B8821AC5DD200C28C6F /* Info.plist */,
+				7DB9E4C321CC27B70097E1E4 /* teacher.swift */,
+				7DB9E4C421CC27B70097E1E4 /* studentList.swift */,
+				7DB9E4C521CC27B70097E1E4 /* AttendenceHistory.swift */,
+				7DB9E4C621CC27B70097E1E4 /* class.swift */,
+				7DB9E4C721CC27B70097E1E4 /* student.swift */,
 			);
-			path = Group2_Piotr_SzczepaniecUITests;
+			path = dataModel;
+			sourceTree = "<group>";
+		};
+		8FED321940110B7E222ED1F8 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -245,7 +254,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1000;
 				LastUpgradeCheck = 1000;
-				ORGANIZATIONNAME = "Period Three";
+				ORGANIZATIONNAME = ZiangQiu;
 				TargetAttributes = {
 					54CD7B6221AC5DD100C28C6F = {
 						CreatedOnToolsVersion = 10.0;
@@ -285,10 +294,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				54CD7B7121AC5DD200C28C6F /* LaunchScreen.storyboard in Resources */,
-				54F9D75921C2D6940006EEC9 /* GoogleService-Info.plist in Resources */,
-				54CD7B6E21AC5DD200C28C6F /* Assets.xcassets in Resources */,
-				54CD7B6C21AC5DD100C28C6F /* Main.storyboard in Resources */,
+				7DB9E4D521CC27B70097E1E4 /* LaunchScreen.storyboard in Resources */,
+				7DB9E4D021CC27B70097E1E4 /* Assets.xcassets in Resources */,
+				7DB9E4D421CC27B70097E1E4 /* GoogleService-Info.plist in Resources */,
+				7DB9E4E621CC27B70097E1E4 /* Info.plist in Resources */,
+				7DB9E4D621CC27B70097E1E4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -313,23 +323,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AE59EBED21BB5C3200C4442B /* StudentsDetailTableViewController.swift in Sources */,
-				5494298C21B99EC000421A48 /* class.swift in Sources */,
-				54BF0CD421B5968C00AAB00B /* CoursesTableViewCell.swift in Sources */,
-				5494298B21B99EBC00421A48 /* studentList.swift in Sources */,
-				54FC11ED21BED86700008FFF /* AddDetailsTableViewController.swift in Sources */,
-				54BF0CD621B5ABB800AAB00B /* StudentTableViewController.swift in Sources */,
-				54CD7B6921AC5DD100C28C6F /* ViewController.swift in Sources */,
-				AE59EBEB21BB587E00C4442B /* AttendenceHistoryTableViewController.swift in Sources */,
-				5494298A21B99EB700421A48 /* AttendenceHistory.swift in Sources */,
-				54D221E321B0569800C12299 /* AddStudentTableViewController.swift in Sources */,
-				54CD7B9521AC5DE500C28C6F /* MainTableViewController.swift in Sources */,
-				54CD7B6721AC5DD100C28C6F /* AppDelegate.swift in Sources */,
-				54BF0CD821B5ABE400AAB00B /* StudentTableViewCell.swift in Sources */,
-				549FABB621C813E900B81059 /* AttendancesTableViewCell.swift in Sources */,
-				5494298D21B99EC300421A48 /* student.swift in Sources */,
-				5482E3B621B8478B008E6E32 /* AddClassroomTableViewController.swift in Sources */,
-				5494298921B99EB400421A48 /* teacher.swift in Sources */,
+				7DB9E4DA21CC27B70097E1E4 /* AppDelegate.swift in Sources */,
+				7DB9E4DC21CC27B70097E1E4 /* studentList.swift in Sources */,
+				7DB9E4E221CC27B70097E1E4 /* class.swift in Sources */,
+				7DB9E4E521CC27B70097E1E4 /* AttendenceHistoryTableViewController.swift in Sources */,
+				7DB9E4D121CC27B70097E1E4 /* AddClassroomTableViewController.swift in Sources */,
+				7DB9E4D321CC27B70097E1E4 /* CoursesTableViewCell.swift in Sources */,
+				7DB9E4DF21CC27B70097E1E4 /* teacher.swift in Sources */,
+				7DB9E4CC21CC27B70097E1E4 /* ViewController.swift in Sources */,
+				7DB9E4E721CC27B70097E1E4 /* StudentsDetailTableViewController.swift in Sources */,
+				7DB9E4CE21CC27B70097E1E4 /* MainTableViewController.swift in Sources */,
+				7DB9E4D821CC27B70097E1E4 /* AddDetailsTableViewController.swift in Sources */,
+				7DB9E4D221CC27B70097E1E4 /* AddStudentTableViewController.swift in Sources */,
+				7DB9E4E121CC27B70097E1E4 /* AttendenceHistory.swift in Sources */,
+				7DB9E4E421CC27B70097E1E4 /* student.swift in Sources */,
+				7DB9E4CF21CC27B70097E1E4 /* StudentTableViewController.swift in Sources */,
+				7DB9E4DB21CC27B70097E1E4 /* teacher.swift in Sources */,
+				7DB9E4E021CC27B70097E1E4 /* studentList.swift in Sources */,
+				7DB9E4CD21CC27B70097E1E4 /* SwiftData.swift in Sources */,
+				7DB9E4D921CC27B70097E1E4 /* AttendancesTableViewCell.swift in Sources */,
+				7DB9E4DE21CC27B70097E1E4 /* class.swift in Sources */,
+				7DB9E4D721CC27B70097E1E4 /* StudentTableViewCell.swift in Sources */,
+				7DB9E4DD21CC27B70097E1E4 /* AttendenceHistory.swift in Sources */,
+				7DB9E4E321CC27B70097E1E4 /* student.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -337,7 +353,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				54CD7B7C21AC5DD200C28C6F /* Group2_Piotr_SzczepaniecTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -345,7 +360,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				54CD7B8721AC5DD200C28C6F /* Group2_Piotr_SzczepaniecUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -365,20 +379,20 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		54CD7B6A21AC5DD100C28C6F /* Main.storyboard */ = {
+		7DB9E4B521CC27B70097E1E4 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				54CD7B6B21AC5DD100C28C6F /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		54CD7B6F21AC5DD200C28C6F /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				54CD7B7021AC5DD200C28C6F /* Base */,
+				7DB9E4B621CC27B70097E1E4 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		7DB9E4B721CC27B70097E1E4 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7DB9E4B821CC27B70097E1E4 /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -506,7 +520,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 8DZ9Y5FRKK;
-				INFOPLIST_FILE = Group2_Piotr_Szczepaniec/Info.plist;
+				INFOPLIST_FILE = ClientSideAttendence/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -525,7 +539,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 8DZ9Y5FRKK;
-				INFOPLIST_FILE = Group2_Piotr_Szczepaniec/Info.plist;
+				INFOPLIST_FILE = ClientSideAttendence/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
