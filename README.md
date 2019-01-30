@@ -48,7 +48,7 @@ Thanks to these orgnizations to open source to our program!
 If you have any questions, please submit [issue](https://github.com/Andyshome/AttendanceApp/issues) to me. I will answer it as soon as possible.
 
 ## Contribution
-If you want to contribute to my program, please fork my program and create [pull request](https://github.com/Andyshome/AttendanceApp/pulls). I will review it after.
+If you want to contribute to my project, please fork my project and create [pull request](https://github.com/Andyshome/AttendanceApp/pulls). I will review it after.
 
 ## License
 **Attendance App** is released under the GPL3.0 license. See [LICENSE](https://github.com/Andyshome/AttendanceApp/blob/master/LICENSE) for details.
